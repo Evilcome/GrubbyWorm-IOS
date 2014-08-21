@@ -99,6 +99,7 @@
 		B0E8C2ED19861212005424D5 /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0E8C2EC19861212005424D5 /* CoreMotion.framework */; };
 		B0E8C2EF198614A6005424D5 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0E8C2EE198614A5005424D5 /* StoreKit.framework */; };
 		B0E8C2F3198615AD005424D5 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0E8C2F2198615AD005424D5 /* CoreTelephony.framework */; };
+		B0F97EAE19A63A29007B4C55 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = B0F97EAD19A63A29007B4C55 /* README.md */; };
 		BF1712471292920000B8313A /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = BF170DB412928DE900B8313A /* libz.dylib */; };
 		BF1C47F01293687400B63C5D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF1C47EA1293683800B63C5D /* QuartzCore.framework */; };
 		D44C620C132DFF330009C878 /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D44C620B132DFF330009C878 /* OpenAL.framework */; };
@@ -382,6 +383,7 @@
 		B0E8C2EE198614A5005424D5 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/StoreKit.framework; sourceTree = DEVELOPER_DIR; };
 		B0E8C2F0198614E3005424D5 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreData.framework; sourceTree = DEVELOPER_DIR; };
 		B0E8C2F2198615AD005424D5 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreTelephony.framework; sourceTree = DEVELOPER_DIR; };
+		B0F97EAD19A63A29007B4C55 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		BF170DB012928DE900B8313A /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		BF170DB412928DE900B8313A /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		BF1C47EA1293683800B63C5D /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
@@ -511,6 +513,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				B0F97EAD19A63A29007B4C55 /* README.md */,
 				1AC6FAE5180E9839004C840B /* cocos2d_libs.xcodeproj */,
 				15AA9C4015B7EC450033D6C2 /* Classes */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
@@ -977,6 +980,7 @@
 				B04FA9841986673300105403 /* MenuScene.cpp in Sources */,
 				B04FA97D1986656800105403 /* FAManager.cpp in Sources */,
 				B0E8C28A1984FD80005424D5 /* PauseLayer.cpp in Sources */,
+				B0F97EAE19A63A29007B4C55 /* README.md in Sources */,
 				B006B30B198763B70059C468 /* Trigger.cpp in Sources */,
 				B006B303198763B20059C468 /* PlayGround.cpp in Sources */,
 				B006B2FC19875FC70059C468 /* Worm.cpp in Sources */,
