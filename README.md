@@ -18,7 +18,7 @@ We've not create android version. If you're interesting in creating an android v
 ## Links
 
 - We're talking the game ideas at [evilcome.com](http://evilcome.com).
-- We're plan to make a tutorial documentention at [CocoaChina](http://www.cocoachina.com)
+- We're plan to make a tutorial documentention at [CocoaChina](http://www.cocoachina.com).
 
 ## Issues OR Proposal
 
